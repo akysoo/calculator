@@ -18,4 +18,3 @@ function calculate() {
         document.getElementById('display').value = 'Error';
     }
 }
-
